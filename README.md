@@ -12,5 +12,9 @@ An exploratory data analysis of the Superstore retail dataset to uncover insight
 - pandas, matplotlib, seaborn
 - Jupyter Notebook
 
+## Dashborad
+- https://public.tableau.com/app/profile/ashley.denies/viz/Superstore-Overview_17512108564190/Dashboard1?publish=yes
+
 ## 📁 Dataset
 [Kaggle: Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
