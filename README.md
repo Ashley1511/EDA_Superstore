@@ -18,3 +18,5 @@ An exploratory data analysis of the Superstore retail dataset to uncover insight
 ## 📁 Dataset
 [Kaggle: Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
+## Author
+- Ashley Denies
